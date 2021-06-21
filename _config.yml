@@ -16,17 +16,16 @@ skills:
  - Python
  - Bash Shell Scripting
  - Diameter
- - SS7
  - Jmeter
  - Business Analysis
- - Technical Architecture
+ - Archetecture Design
 #Work experience is required
 roles:
  - title: Senior Implementation Engineer
    start: 2012
    end: Ongoing
    employer: 6D Technologies
-   description: Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
+   description: Design,  and Delivery of Telecom OSS/BSS and VAS solutions.
 
 #Education is required
 education:
