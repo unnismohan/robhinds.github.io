@@ -1,40 +1,69 @@
 # Site settings
-title: Unni S Mohan  
+title: Unni S Mohan
 name: Unni S Mohan
-
 
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: LinkedIn
-   url: https://www.linkedin.com/in/unni-s-mohan/
+ - title: GitHub
+   url: https://github.com/unnismohan
+ - title: linkedin
+   url: linkedin.com/in/unni-s-mohan
 
 #Any buzzword skills you want to include
 skills:
- - Linux
- - Mysql
+ - Shell Script
  - Python
- - Bash Shell Scripting
+ - Linux
+ - Networking
+ - Cloud
+ - Kubernetes
+ - Docker
+ - node js
+ - Project Management and Delivery
  - Diameter
- - Jmeter
- - Business Analysis
- - Archetecture Design
+ - SS7 
+ - Sigtran 
+ - SIP
+
 #Work experience is required
 roles:
- - title: Senior Implementation Engineer
-   start: 2012
+ - title: Technical Project Manager
+   start: June 2021
    end: Ongoing
    employer: 6D Technologies
-   description: Design,  and Delivery of Telecom OSS/BSS and VAS solutions.
-
+   description:  Working as the Technical Project Manager for the Succesfull Delivery and Deployment of Digital Bss and Transformation of Legacy Telecom BSS to Digital <br/> . The current position involves customer interaction for requirement gathering , Archetechture Design , Delivery Planning , Project tracking , UAT completion and Final Go live .<br/>  Involves in the End to end life cycle of a project untill go live, streamlining  and coordinating various teams involved . <br/>  BSS Components involved  are CRM , Billing , Customer Order Management ,Service Order Management , Unified Product Catalogue , Online Charging System , PCRF , SMSC , Notification Gateway, MIS , Mediation , ESB 
+ - title: Senior Implementation Engineer
+   start: Dec 2016
+   end: June 2021
+   employer: 6D Technologies
+   description:  Involved in the  Design , deployment and Testing of various  Telecom BSS projects . Involved in the entire project lifecycle of every project untill go live .  Modules Involved : <br/> CRM , Billling , OCS , SMSC , PCRF , SOM , Mediation  ,IVR etc
+ - title:  Implementation Engineer
+   start: Aug 2014
+   end: June 2016
+   employer: 6D Technologies
+   description:  Involved in the Testing and implementation of various Telecom Products like CRM , Billing , SMSC , MMSC , Call Controll, IVR etc 
+ - title:  Operations Engineer
+   start: June 2012
+   end: Aug 2014
+   employer: 6D Technologies
+   description:  Involved in Telecom  Aplication monitoring 
 #Education is required
 education:
- - level: Btech
-   date: 2008
-   subject: Electronics and Communication
-   school: College Of Engineering Poonjar 
-intro: |
- Experienced Senior Implementation Engineer with a demonstrated history of working in the telecommunications industry. Skilled in BSS, CRM, Off line billing, OCS, CAMEL, PCRF,SMSC, MMSC,Linux and Python. Strong  professional with  8+ years of experience in Project Management, Business Analysis, Migration Solution Analysis, Integration testing, Functionality testing and Service delivery.
+ - level: Bachelor of Engineering (Btech)
+   date: 2012
+   subject: Electronics and Communication 
+   school: Cochin University (College of Engineering Poonjar)
+
+
+#Stackoverflow flair is optional
+stackoverflow:
+   profileurl: https://stackoverflow.com/users/973262/unnismohan
+   flairimageurl: https://stackoverflow.com/users/flair/973262.png
+
+#Mobile apps section is optional
+
+
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Linux</strong>: My current role uses Linux as the primary os
+   <strong>JVM</strong>: I am experienced in The following Teleocom Products <br/> CRM, Postpaid/Prepaid Billing , OCS , PCRF , Mediation , SMSC , MMSC , Call Controll, IVR , PRM and Roaming Solutions , Selfcare , HLR /HSS Provisioning  
